@@ -18,8 +18,7 @@ This project is a decentralized image-sharing platform that leverages blockchain
 - **Storage**: IPFS (via Pinata API)
 - **Smart Contracts**: Solidity
 - **Web3**: Web3.js for blockchain interaction
-- **Ethereum Testnet**: Deployed on an Ethereum testnet (such as Rinkeby or Goerli)
-
+- **Ethereum Testnet**: Deployed on an Ethereum testnet using hardhat
 ## Installation
 
 To run this project locally, follow these steps:
