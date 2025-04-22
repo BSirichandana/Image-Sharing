@@ -51,13 +51,6 @@ To run this project locally, follow these steps:
 - Share an image: After uploading, the image’s ownership will be stored on the blockchain, allowing for controlled access.
 - View an image: Only authorized users can view shared images, depending on the permissions set by the owner.
 
-## Contributing
-
-Contributions are welcome! If you'd like to contribute to this project, feel free to fork the repository, create a branch, and submit a pull request. Please make sure to follow the code of conduct and keep the code clean and well-documented.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Acknowledgements
 
